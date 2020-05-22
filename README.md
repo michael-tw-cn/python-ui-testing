@@ -7,7 +7,8 @@ python test_suite.py
 ```
 
 1. quick start
-chromedriver & geckodriver
+- chromedriver
+- geckodriver
 
 2. id/css-selector/xpath/class-name/link-text/partial-link-text
 - practice
